@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Mahmoud Ahmed!
+# 👋 Hi, I'm Mahmoud!
 🎓 Computer Science graduate from the University of Menoufia.<br><br>🌱 Currently on a journey of continuous learning, documented in my digital garden - check out #Learning_in_the_year.<br><br>📊 Currently diving into the world of Mobile app<br><br>Let's connect and explore the ever-evolving landscape of technology together! 🚀
 
 
