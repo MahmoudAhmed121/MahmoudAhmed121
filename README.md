@@ -14,13 +14,13 @@ Greetings! I'm Mahmoud Hamdy, a junior Flutter developer 🚀 passionate about t
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mahmoud-hamdy-alashwah/" target="_blank">
+  <a href="https://www.linkedin.com/in/mahmoud-ahmed-891337270/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&label=Connect%20with%20me" />
   </a>
-  <a href="mailto:hmdy7486@gmail.com" target="_blank">
+  <a href="mailto:m7moud1212001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&label=Email%20me" style="margin-right: 15px;" />
   </a>
-  <a href="https://www.facebook.com/MahmoudHamdyElashwah/" target="_blank">
+  <a href="https://web.facebook.com/profile.php?id=100027162594156/" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&label=Follow%20me%20on%20Facebook" style="margin-right: 15px;" />
   </a>
 </p>
