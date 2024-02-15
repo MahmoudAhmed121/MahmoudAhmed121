@@ -8,7 +8,10 @@
 - ITI Ambassador
 <hr>
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)]([https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png](https://i.ibb.co/jb1JyT4/0-2u-pj-VJlgp-Qw4-XHy.png))
+<div align="center">
+  <img height="400" src="https://i.ibb.co/jb1JyT4/0-2u-pj-VJlgp-Qw4-XHy.png"  />
+</div>
+
 
 
 <!-- 👋💙 🤝 -->
