@@ -15,7 +15,12 @@
 </div>
 
 <h2> Contact with me on </h2>
-- personal email : ahmedmahmoudbit99@gmail.com
+
+<!-- <h3>Where to find me</h3>
+<p><a href="https://github.com/
+AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
+
+- personal email : m7moud1212001@gmail.com
 
 
 <p><a href="http://wa.me/201068365035" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mahmoud-ahmed-891337270/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
