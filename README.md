@@ -52,5 +52,8 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 <h3> Mexo Car (Admin Dashboard) </h3>
 
 <p> The Mexo Car Admin Dashboard was crafted using Flutter Web for efficient management 📊. It empowers admins with intuitive controls for content, product 🛍️, order 📦, and user management. With its responsive design, admins can access it anytime, anywhere 🌍. This tool facilitates quick decision-making 🚀 and enhanced user experiences 🛒. Perfect for dynamic website management! </p>
-
+<div align="center">
+  <a href="https://mexo-car-staging.web.app/">
+    <img src="logo_web.png" alt="Web Logo">
+  </a>
 
