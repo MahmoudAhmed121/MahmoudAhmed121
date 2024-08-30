@@ -35,11 +35,11 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 <h3>Mexo Car App</h3>
 <p>🚗 The app offers numerous essential features for everything your car needs! 🛠️ Whether it's maintenance, repairs, or tracking, we've got you covered. With Mexo Car, all your car problems are solved. 🚀<br>
 🛒 You can even add your own shop to the app as a seller, making it easier to reach customers and manage your business.<br>
-📈 For customers, finding and purchasing from trusted local sellers has never been simpler!</p> 
+📈 For customers, finding and purchasing from trusted local sellers has never been simpler!</p>
 
 <div align="left"> 
   <a href="https://play.google.com/store/apps/details?id=com.powerwebsolution.mexo.car.app&hl=en_US"> 
-    <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white&colorA=34A853&colorB=4285F4" alt="Google Play Logo">
+    <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-FFFFFF?style=for-the-badge&logo=googleplay&logoColor=white&colorA=34A853&colorB=4285F4" alt="Google Play Logo">
   </a> 
 </div>
 
