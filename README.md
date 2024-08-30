@@ -39,7 +39,7 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 
 <div align="left">
  <a href="https://play.google.com/store/apps/details?id=com.sharktech.app_shark&hl=en_US"> 
-  <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Logo">
+   <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-FFFFFF?style=for-the-badge&logo=googleplay&logoColor=white&colorA=34A853&colorB=4285F4" alt="Google Play Logo">
   </a> 
   </div>
 
