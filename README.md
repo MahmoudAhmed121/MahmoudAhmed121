@@ -32,11 +32,14 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
  
 <h2> Samples from my projects </h2>
 
-<h3> Mexo Car App </h3>
-<p> The Mexo Car Admin Dashboard was crafted using Flutter Web for efficient management 📊. It empowers admins with intuitive controls for content, product 🛍️, order 📦, and user management. With its responsive design, admins can access it anytime, anywhere 🌍. This tool facilitates quick decision-making 🚀 and enhanced user experiences 🛒. Perfect for dynamic website management! </p> 
+<h3>Mexo Car App</h3>
+<p>🚗 The app offers numerous essential features for everything your car needs! 🛠️ Whether it's maintenance, repairs, or tracking, we've got you covered. With Mexo Car, all your car problems are solved. 🚀<br>
+🛒 You can even add your own shop to the app as a seller, making it easier to reach customers and manage your business.<br>
+📈 For customers, finding and purchasing from trusted local sellers has never been simpler!</p> 
+
 <div align="left"> 
-<a href="https://play.google.com/store/apps/details?id=com.powerwebsolution.mexo.car.app&hl=en_US"> 
-  <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Logo">
+  <a href="https://play.google.com/store/apps/details?id=com.powerwebsolution.mexo.car.app&hl=en_US"> 
+    <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white&colorA=34A853&colorB=4285F4" alt="Google Play Logo">
   </a> 
 </div>
 
