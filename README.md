@@ -32,6 +32,18 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
  
 <h2> Samples from my projects </h2>
 
+<h3> Jacob And Partners </h3>
+<p>Jacob & Partners is a premium investment insights app designed for a select group of members who are passionate about making informed investment decisions.</p>
+
+<div align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.jakub.jp"> 
+    <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-FFFFFF?style=for-the-badge&logo=googleplay&logoColor=white&colorA=34A853&colorB=4285F4" alt="Google Play Logo">
+  </a> 
+  <a href="https://apps.apple.com/ae/app/jacob-and-partners/id6738399621">
+    <img src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-FFFFFF?style=for-the-badge&logo=appstore&logoColor=white&colorA=0D96F6&colorB=0A84FF" alt="App Store Logo">
+  </a>
+</div>
+
 <h3>App Shark - App Scanner 🦈</h3>
 <p>App Shark is a powerful tool that helps you discover apps installed on your device and analyze the evidence that identifies them. 🔍
 📱 The app lets you know if apps use technologies like Flutter, React, Xamarin, Ionic, or Native. It provides detailed information about the tools and technologies developers use, revealing insights into how the apps you interact with daily are developed. 💡
