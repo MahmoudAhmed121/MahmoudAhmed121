@@ -8,28 +8,14 @@
 - ITI Ambassador
 <hr>
 
-
-
 <div align="center">
   <img height="400" src="https://i.ibb.co/jb1JyT4/0-2u-pj-VJlgp-Qw4-XHy.png"  />
 </div>
 
 <h2> Contact with me on </h2>
 
-<!-- <h3>Where to find me</h3>
-<p><a href="https://github.com/
-AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
+<p><a href="http://wa.me/201068365035" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mahmoud-ahmed-891337270/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
 
-- personal email : m7moud1212001@gmail.com
-
-
-<p><a href="http://wa.me/201068365035" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mahmoud-ahmed-891337270/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
-
-<!-- - whatsApp for bussines :http://wa.me/201068365035
-- personal email : m7moud1212001@gmail.com
-- facebook : https://www.facebook.com/profile.php?id=100027162594156
-- linkedIn : www.linkedin.com/in/mahmoud-ahmed-891337270/ -->
- 
 <h2> Samples from my projects </h2>
 
 <h3> Jacob And Partners </h3>
@@ -37,10 +23,10 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 
 <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.jakub.jp"> 
-    <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-FFFFFF?style=for-the-badge&logo=googleplay&logoColor=white&colorA=34A853&colorB=4285F4" alt="Google Play Logo">
+    <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-FFFFFF?style=for-the-badge&logo=googleplay&logoColor=white&colorA=34A853&colorB=34A853" alt="Google Play Logo">
   </a> 
   <a href="https://apps.apple.com/ae/app/jacob-and-partners/id6738399621">
-    <img src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-FFFFFF?style=for-the-badge&logo=appstore&logoColor=white&colorA=0D96F6&colorB=0A84FF" alt="App Store Logo">
+    <img src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-FFFFFF?style=for-the-badge&logo=appstore&logoColor=white&colorA=0D96F6&colorB=0D96F6" alt="App Store Logo">
   </a>
 </div>
 
@@ -51,9 +37,9 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 
 <div align="left">
  <a href="https://play.google.com/store/apps/details?id=com.sharktech.app_shark&hl=en_US"> 
-   <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-FFFFFF?style=for-the-badge&logo=googleplay&logoColor=white&colorA=34A853&colorB=4285F4" alt="Google Play Logo">
+   <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-FFFFFF?style=for-the-badge&logo=googleplay&logoColor=white&colorA=34A853&colorB=34A853" alt="Google Play Logo">
   </a> 
-  </div>
+</div>
 
 <h3>Mexo Car App 🚗</h3>
 <p> The app offers numerous essential features for everything your car needs! 🛠️ Whether it's maintenance, repairs, or tracking, we've got you covered. With Mexo Car, all your car problems are solved. 🚀<br>
@@ -62,7 +48,7 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 
 <div align="left"> 
   <a href="https://play.google.com/store/apps/details?id=com.powerwebsolution.mexo.car.app&hl=en_US"> 
-    <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-FFFFFF?style=for-the-badge&logo=googleplay&logoColor=white&colorA=34A853&colorB=4285F4" alt="Google Play Logo">
+    <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-FFFFFF?style=for-the-badge&logo=googleplay&logoColor=white&colorA=34A853&colorB=34A853" alt="Google Play Logo">
   </a> 
 </div>
 
@@ -74,6 +60,3 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
     <img src="https://img.shields.io/badge/Web%20Site-4285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Logo">
   </a>
 </div>
-
-
-
