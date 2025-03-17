@@ -18,7 +18,7 @@
 
 <h2> Samples from my projects </h2>
 
-<h3> Jacob And Partners </h3>
+<h3> Jacob And Partners 📱 </h3>
 <p>Jacob & Partners is a premium investment insights app designed for a select group of members who are passionate about making informed investment decisions.</p>
 
 <div align="left">
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Get%20on%20Google%20Play-FFFFFF?style=for-the-badge&logo=googleplay&logoColor=white&colorA=34A853&colorB=34A853" alt="Google Play Logo">
   </a> 
   <a href="https://apps.apple.com/ae/app/jacob-and-partners/id6738399621">
-    <img src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-FFFFFF?style=for-the-badge&logo=appstore&logoColor=white&colorA=0D96F6&colorB=0D96F6" alt="App Store Logo">
+    <img src="https://img.shields.io/badge/Get%20on%20the%20App%20Store-FFFFFF?style=for-the-badge&logo=appstore&logoColor=white&colorA=0D96F6&colorB=0D96F6" alt="App Store Logo">
   </a>
 </div>
 
